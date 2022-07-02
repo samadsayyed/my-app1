@@ -7,6 +7,7 @@ export default function Home() {
 <>
 <h1 className="text-3xl font-bold bg-gray-700 underline">
       Hello world!hisd
-    </h1></>
+    </h1>xn</>
+   
   )
 }
