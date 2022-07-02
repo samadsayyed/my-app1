@@ -6,8 +6,8 @@ export default function Home() {
   return (
 <>
 <h1 className="text-3xl font-bold bg-gray-700 underline">
-      Hello world!hisd
-    </h1>xn</>
+      Hii i am Changes
+    </h1></>
    
   )
 }
